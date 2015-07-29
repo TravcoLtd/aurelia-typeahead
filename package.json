@@ -1,6 +1,6 @@
 {
   "name": "aurelia-typeahead",
-  "version": "1.0.6",
+  "version": "1.0.5",
   "description": "Aurelia wrapper for the twitter typeahead",
   "keywords": [
     "aurelia",
@@ -17,7 +17,7 @@
     "url": "https://github.com/TravcoLtd/aurelia-typeahead"
   },
   "jspm": {
-    "main": "typeahead",
+    "main": "aurelia-typeahead",
     "format": "amd",
     "directories": {
       "lib": "dist"
